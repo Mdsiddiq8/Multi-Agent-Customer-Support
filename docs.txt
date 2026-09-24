@@ -1,0 +1,1 @@
+New-Item -ItemType File -Name "knowledge\docs.txt" -Force; code knowledge\docs.txt
